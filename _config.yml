@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "MS&E 135 Networks"
+title: "Multimodal Network Information Dyamics MURI"
 email: jugander@stanford.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    Stanford University, Winter Quarter 2023
+    University of Illinois, Urbana & Stanford University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://msande135.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  msande135
+github_username:  network-information-muri
 
 # Build settings
 theme: jekyll-theme-cayman
