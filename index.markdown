@@ -9,3 +9,20 @@ title: "Multimodal Network Information Dyamics MURI"
 ## Project Description
 
 Research
+
+## Participants
+
+**PIs**
+- Cedric Langbort
+- Tamer Basar
+- Michel Regenwetter
+- Jeff Hancock
+- Johan Ugander
+
+**Students**
+- X
+- Y
+
+**Publications**
+
+- Something (2023)
